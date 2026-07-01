@@ -10,14 +10,7 @@ This repository documents my journey from Manual QA Engineer to AI Developer thr
 - NumPy
 - Pandas
 - Machine Learning
-- Natural Language Processing
-- Deep Learning
-- Transformers
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- FastAPI
-- Deployment
+....
 
 ## Repository Philosophy
 
@@ -26,6 +19,8 @@ Learn → Code → Experiment → Document → Repeat
 Every topic contains:
 - Notes
 - Code examples
-- Assignments
 - Experiments
-- Mini-projects
+
+## Assignments and mini Projects
+
+you should visit genAI- Assignment for assignments and mini projects.
