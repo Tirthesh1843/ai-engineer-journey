@@ -3,5 +3,6 @@
         "ipykernel",
         "numpy",
         "Streamlit"
-    ]
+    ],
+    "python.analysis.autoImportCompletions": true
 }
